@@ -1,1 +1,1 @@
-My first readme
+Software egineering course zero day
